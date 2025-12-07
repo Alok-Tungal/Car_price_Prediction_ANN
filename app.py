@@ -507,7 +507,7 @@ def page_prediction():
 # --- 5. MAIN APP LOGIC ---
 st.sidebar.markdown(
     "<h2 style='text-align: center; color: white; background-color:#111827; padding:10px; border-radius:8px;'>"
-    "<b>Car Price Prediction Using ANN</b></h2>",
+    "<b>Car Price Prediction Using ANN</b></h2>", 
     unsafe_allow_html=True
 )
 st.sidebar.markdown("### Navigation")
